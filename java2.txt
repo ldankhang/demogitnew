@@ -20,3 +20,7 @@ da them 20/02 02
 >>>>>>> 333c24d (them feature 05)
 06
 07
+<<<<<<< HEAD
+=======
+08
+>>>>>>> 657b126 (them feature 08)
