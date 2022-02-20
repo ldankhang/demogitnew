@@ -13,4 +13,8 @@ da them 20/02 02
 =======
 03
 04
+<<<<<<< HEAD
 >>>>>>> b84c91f (them feature 04)
+=======
+05 bin sua
+>>>>>>> 333c24d (them feature 05)

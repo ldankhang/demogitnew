@@ -1,8 +1,6 @@
 da them vao luc 20/02
-<<<<<<< HEAD
-da them 20/02 02
-=======
 da them 20/02 02
 03
 04
->>>>>>> b84c91f (them feature 04)
+05 bin sua
+06
